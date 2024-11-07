@@ -87,5 +87,5 @@ else:
 
 a=20
 b=6
-c=a//b
+c=a//b # floor division gives interger output and not the decimal figure
 print(c)
